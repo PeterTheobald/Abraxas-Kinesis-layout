@@ -1,5 +1,5 @@
 # abraxas
-Kinesis Advantage keyboard layout with arrows and brackets layer (arrows+brackets=abraxas)
+Kinesis Advantage keyboard layout with arrows and brackets layer ("arrows"+"brackets"="abraxas")
 
 kp-layer is great for access to arrows and brackets (see image)
 lots of extra spare keys for customizing
